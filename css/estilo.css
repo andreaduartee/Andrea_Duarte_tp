@@ -1,0 +1,76 @@
+body{
+	background-image: url(../megusta.1.jpg);
+}
+h1{
+	font-family: 'Titan One', cursive;
+	font-size: 40px;
+	color:purple;
+	text-align: center;
+}
+h2{
+	font-family: 'Playball', cursive;
+	color:black;
+}
+a{
+	font-family: 'Playball', cursive;
+	font-size: 20px;
+}
+
+h4{
+	font-family: 'Playball', cursive;
+	}
+li{
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+p{
+	color:black;
+	font-family: 'Pacifico', cursive;
+
+}
+h3{
+	color: black;
+}
+.row{
+	padding: 5%;
+	margin: 0;
+	
+}
+.col-md-4{
+	
+}
+.col-md-8{
+	padding: 2.3%;
+	margin-top: 3.3%;
+	box-shadow: 0px 0px 8px 0px white;
+	
+}
+.panel-heading{
+	padding: 40px;
+}
+.thumbnail{
+	padding: 20%;
+	width: 340px;
+	box-shadow: 0px 0px 8px 0px white;
+	background-image: url(../paraflor.1.jpg);
+	
+}
+.iconos{
+	text-align: center;
+}
+
+
+
+.iconos{
+
+	height: 10px;
+	width: 50px;
+}
+.col4{
+	color: ;
+	font-family: 'Coming Soon', cursive;
+}
+.panel-title{
+	font-size: 15px;
+	font-family: 'Permanent Marker', cursive;
+}
